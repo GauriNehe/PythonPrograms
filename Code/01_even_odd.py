@@ -4,7 +4,6 @@ def check_even_odd(number):
         return "Even"
     return "Odd"
 
-
 if __name__ == "__main__":
     n = int(input("Enter a number: "))
     print(check_even_odd(n))
